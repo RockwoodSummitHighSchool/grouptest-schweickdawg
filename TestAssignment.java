@@ -4,6 +4,7 @@ public class TestAssignment
 	{
 		System.out.println("Hi");
 		System.out.println("Nate dresses funny");
+		blah("Kelly");
 	}
 	public static void blah(String h)
 	{
