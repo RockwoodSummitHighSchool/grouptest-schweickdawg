@@ -8,6 +8,7 @@ public class TestAssignment
 	public static void blah(String h)
 	{
 		//This is a blah header
+		System.out.println("Nothing to see here...");
 	}
 	public static int numbs()
 	{
