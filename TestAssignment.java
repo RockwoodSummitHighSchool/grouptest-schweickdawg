@@ -13,7 +13,7 @@ public class TestAssignment
 	public static int numbs()
 	{
 		///returns a nothing int
-
+		return 27;
 	}
 }
 
